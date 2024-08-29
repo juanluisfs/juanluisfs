@@ -1,5 +1,3 @@
-# Juan Luis README
-
 //
 //  ContentView.swift
 //  Juan Luis README
