@@ -13,7 +13,7 @@ struct ContentView: View {
   let county = "🇲🇽"
   var interests = ["Swift", "Apple", "MATLAB", "Python", "Design Thinking"]
   var awards = ["Swift Student Challenge 2024". "StartUpShip 2023", "Expo Ingenierias 2022", "Conexion Tec 2020", "PrepApps 2019", "Health Innovation Fair 2018". "Mexican Mathematics Olympiad 2014"]
-  var apps = 
+  var apps = []
   var body: some View {
     Text("Hello, world!")
   }
