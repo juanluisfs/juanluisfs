@@ -4,7 +4,6 @@
 //
 //  Created by Juan Luis on 05/08/24.
 //
-k
 
 struct ContentView: View {
 
