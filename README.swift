@@ -5,7 +5,6 @@
 //  Created by Juan Luis on 05/08/24.
 //
 
-
 struct ContentView: View {
 
   // About me
