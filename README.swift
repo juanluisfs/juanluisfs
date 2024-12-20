@@ -6,6 +6,7 @@
 //
 
 struct ContentView: View {
+  
   // About me
   let name      = "Juan Luis Flores Sánchez"
   let age       = 23
