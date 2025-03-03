@@ -3,7 +3,7 @@
 //  Juan Luis README
 //
 //  Created by Juan Luis on 05/08/24.
-//  Updated 
+//  Updated by Juan Luis
 
 struct ContentView: View {
   
