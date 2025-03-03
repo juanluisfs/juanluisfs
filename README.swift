@@ -2,8 +2,8 @@
 //  ContentView.swift
 //  Juan Luis README
 //
-//  Created by Juan Luis on 05/08/24.
-//  Updated by Juan Luis
+//  Created by Juan Luis on 08/05/2024
+//  Updated by Juan Luis on 03/02/2025
 
 struct ContentView: View {
   
