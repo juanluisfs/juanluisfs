@@ -23,5 +23,4 @@ struct ContentView: View {
 
 
 wjjekeke
-ejejeiie
 keiekeir
