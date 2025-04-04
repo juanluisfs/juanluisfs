@@ -21,6 +21,4 @@ struct ContentView: View {
   }
 }
 
-
-wjjekeke
 keiekeir
