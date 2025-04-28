@@ -22,5 +22,4 @@ struct ContentView: View {
 }
 
 
-sjejjeke
 ididir
