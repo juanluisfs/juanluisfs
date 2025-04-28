@@ -20,6 +20,3 @@ struct ContentView: View {
     Text("Hello, world!")
   }
 }
-
-
-ididir
