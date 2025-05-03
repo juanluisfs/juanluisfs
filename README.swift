@@ -21,6 +21,5 @@ struct ContentView: View {
   }
 }
 
-ejejkee
-ekekkeke
+ejejke
 ekekekek
