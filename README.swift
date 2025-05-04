@@ -24,4 +24,3 @@ struct ContentView: View {
 
 rjrjir
 jrjrjtj
-thrutj
