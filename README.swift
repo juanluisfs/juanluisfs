@@ -24,4 +24,3 @@ struct ContentView: View {
 
 eheurkir
 jeiririr
-heiririr
