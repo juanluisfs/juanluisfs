@@ -21,5 +21,4 @@ struct ContentView: View {
   }
 }
 
-hdjs
 sheh
