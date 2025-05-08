@@ -22,4 +22,3 @@ struct ContentView: View {
 }
 
 nekekr
-rkriri
