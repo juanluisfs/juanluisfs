@@ -20,3 +20,7 @@ struct ContentView: View {
     Text("Hello, world!")
   }
 }
+
+djekek
+ejejek
+ejeie
