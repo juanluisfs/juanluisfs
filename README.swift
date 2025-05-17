@@ -21,6 +21,5 @@ struct ContentView: View {
   }
 }
 
-ejkrkr
 rjri
 jrir
