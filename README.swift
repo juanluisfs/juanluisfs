@@ -22,5 +22,4 @@ struct ContentView: View {
 }
 
 jhg
-jhg
 hhg
