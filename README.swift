@@ -1,5 +1,4 @@
-
-jji//
+//
 //  ContentView.swift
 //  Juan Luis README
 //
