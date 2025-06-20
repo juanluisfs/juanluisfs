@@ -20,3 +20,8 @@ struct ContentView: View {
     Text("Hello, world!")
   }
 }
+
+juk
+kij
+nju
+jui
