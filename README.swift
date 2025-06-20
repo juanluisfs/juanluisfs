@@ -22,6 +22,5 @@ struct ContentView: View {
 }
 
 juk
-kij
 nju
 jui
