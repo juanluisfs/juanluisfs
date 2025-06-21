@@ -22,4 +22,3 @@ struct ContentView: View {
 }
 
 jhy
-hug
