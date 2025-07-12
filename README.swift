@@ -22,5 +22,5 @@ struct ContentView: View {
 }
 
 krb
-kri
+
 ktitñ
