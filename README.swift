@@ -23,4 +23,3 @@ struct ContentView: View {
 
 org
 org
-org
